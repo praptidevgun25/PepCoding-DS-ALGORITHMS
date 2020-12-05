@@ -1,1 +1,1 @@
-# Pepcoding-DS-algo
+# PepCoding-DS-ALGORITHMS
